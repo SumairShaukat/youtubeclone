@@ -7,6 +7,8 @@ import {
   ChannelDetail,
   VideoDetail,
 } from "./components/indeex";
+import "./index.css";
+
 const App = () => (
   <BrowserRouter>
     <Box sx={{ backgroundColor: "#000" }}>
